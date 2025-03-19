@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋 / Hola 👋
+### 
+* [![Next][Next.js]][Next-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 <!--
 **MelVaz/MelVaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
