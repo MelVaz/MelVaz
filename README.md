@@ -1,4 +1,5 @@
 ### Hello there 👋 / Hola 👋
+### Front-end developer/ Desarrollador Front-end
 ###  GITLAB: https://gitlab.com/MelVaz
 ### 👇​👇​👇​ 
 * Next.js
